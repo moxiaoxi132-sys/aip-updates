@@ -1,8 +1,8 @@
 {
   "app": "AIP",
   "server_version": "20261124.1900",
-  "generated_at": 1795520050,
-  "global_stop": false,
+  "generated_at": 1795522383,
+  "global_stop": true,
   "require_activation": true,
   "notice": "",
   "grace_days": 7,
@@ -19,5 +19,5 @@
       "size": 7
     }
   ],
-  "sig": "f296b69feeae4fa79b9a444cf9f02333550f4af685c50b681e0417b250929f1d"
+  "sig": "e593e27641303706e1a750d786dc7e67b0c250b79020d0b22de7ba603bc19fc6"
 }
