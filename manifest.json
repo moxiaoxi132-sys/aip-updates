@@ -1,0 +1,23 @@
+{
+  "app": "AIP",
+  "server_version": "20261124.1900",
+  "generated_at": 1795519855,
+  "global_stop": false,
+  "require_activation": true,
+  "notice": "",
+  "grace_days": 7,
+  "devices": {
+    "f1d310d4539aadde11318bd282453b75": {
+      "active": true,
+      "expires_at": 1798108710
+    }
+  },
+  "files": [
+    {
+      "name": "rules.json",
+      "sha256": "04e2e57ac59cfedb7b15166afa032080e43ba611a848b5530b77b14dd03fb686",
+      "size": 7
+    }
+  ],
+  "sig": "b946db1f3235352185d8bd2dd5d6230173b35d09ab927f517ae117fe3f16ae3b"
+}
