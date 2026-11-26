@@ -1,1 +1,23 @@
-{"updated_at":"2026-11-25T20:58:00+08:00","gate":{"enabled":true,"codes":["MX-CLOUD-2027"],"max_attempts":3,"lock_minutes":30},"announcement":{"enabled":true,"title":"安全码已更新（云端第 3 次）","body":"新码由 GitHub 下发，旧码立即失效；客户端 60 秒内自动同步。","level":"warning","updated_at":"2026-11-25T20:58:00+08:00"},"update_notice":{"enabled":true,"latest_version":"v4.8.0","notes":"云端已下发新安全码，更新包稍后发布","url":"","updated_at":"2026-11-25T20:58:00+08:00"}}
+{
+  "updated_at": "2026-11-26T14:25:00+08:00",
+  "gate": {
+    "enabled": true,
+    "codes": ["AIPMX"],
+    "max_attempts": 3,
+    "lock_minutes": 30
+  },
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "body": "",
+    "level": "info",
+    "updated_at": ""
+  },
+  "update_notice": {
+    "enabled": false,
+    "latest_version": "",
+    "notes": "",
+    "url": "",
+    "updated_at": ""
+  }
+}
